@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=arthurqueueforecast904c;AccountKey=;EndpointSuffix=core.windows.net",
+    "container_name": "azure-queue-webjobs-hosts"
+
+  }
+}

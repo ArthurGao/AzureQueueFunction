@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=;BlobEndpoint=http://127.0.0.1:10000/devstoreaccount1;",
+    "FUNCTIONS_WORKER_RUNTIME": "python", 
+    "arthurqueueforecast904c_STORAGE": "DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=;QueueEndpoint=http://127.0.0.1:10001/devstoreaccount1;",
+    "container_name": "azure-webjobs-hosts"
+
+  }
+}
